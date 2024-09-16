@@ -1,1 +1,15 @@
-/*  your css code here. If applicable */
+
+            table {
+            width: 70%;
+            background-color: yellow;
+        }
+        th, td ,table{
+            border: 1px solid black;
+            text-align: left;
+        }
+        th {
+            background-color: yellow;
+        }
+        caption {
+            font-weight: bold;
+        }
